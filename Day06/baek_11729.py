@@ -19,7 +19,7 @@ def hanoi(n, from_pos, to_pos, aux_pos):
     
 N = int(input())
 result = []
-hanoi(N, 1, 3, 2) # 원반 세 개를 1번 기둥에서 3번 기둥으로 이동(2번을 보조 기둥으로)
+hanoi(N, 1, 3, 2) # 원반 N 개를 1번 기둥에서 3번 기둥으로 이동(2번을 보조 기둥으로)
 
 print(len(result))
 for s, e in result:
