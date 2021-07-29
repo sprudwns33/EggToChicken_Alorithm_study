@@ -1,3 +1,4 @@
 # EggToChicken_Alorithm_study
 
-test
+*Day01
+**test
