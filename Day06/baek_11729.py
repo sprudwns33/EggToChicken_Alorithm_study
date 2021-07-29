@@ -24,3 +24,4 @@ hanoi(N, 1, 3, 2) # 원반 N 개를 1번 기둥에서 3번 기둥으로 이동(2
 print(len(result))
 for s, e in result:
     print(s, e)
+ 
