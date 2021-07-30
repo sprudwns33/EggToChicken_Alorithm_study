@@ -40,3 +40,13 @@
 ##### 　　● 　baekjoon_별 찍기-10(2447)
 ##### 　　● 　baekjoon_하노이 탑 이동 순서(11729)
 ##### 　　● 　baekjoon_큰 수 구성하기(18511)
+
+### [Day07 (정렬)](https://github.com/sprudwns33/EggToChicken_Alorithm_study/tree/main/Day07)
+##### 　　● 　baekjoon_수 정렬하기(2750)
+##### 　　● 　baekjoon_수 정렬하기3(10989)
+##### 　　● 　baekjoon_통계학(2108)
+##### 　　● 　baekjoon_소트인사이드(1427)
+##### 　　● 　baekjoon_좌표 정렬하기(11650)
+##### 　　● 　baekjoon_단어 정렬(1181)
+##### 　　● 　baekjoon_나이순 정렬(10814)
+##### 　　● 　baekjoon_좌표 압축(18870)
